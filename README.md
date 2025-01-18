@@ -1,5 +1,4 @@
 # learning-swift
-
 learning through Udemy  
 ★SwiftUI Masterclass 2025 – iOS App Development & SwiftData★
 
@@ -14,29 +13,12 @@ apple이 제한 사항을 위반해 사용된  symbol에 대해 사용 중단 �
 
 
 ## Swift UI Link
-
 source : https://developer.apple.com/documentation/swiftui/link  
 available up to 10s 14.0
 
 
-```swift
-struct Link<Label> where Label : View
-```
+## Index
 
-## Examples : 
-<!-- image -->
-```swift
-Link("Go to Apple:, destination:
-  URL(string: https://apple.com")!)
-```
-<!-- image -->
-```swift
-Link("Call to Action",
-destination: URL(string : "tel:1234567890")!)
-```
-<!-- image -->
-```swift
-Link("Send an Email",
-  destination: URL(string : "cksgnl0523@gmail.com")!)
-```
-
+| # | Title | Reference |
+|---| ----- | --------- |
+| 1 | [Link](https://github.com/ParkChanHwi/learning-swift/edit/main/README.md) | [appleDeveloper_Link](https://developer.apple.com/documentation/swiftui/link) |
