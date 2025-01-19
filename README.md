@@ -22,4 +22,4 @@ available up to 10s 14.0
 | # | Title | Reference |
 |---| ----- | --------- |
 | 1 | [Gradient](design/gradient.md) | [Reference](https://developer.apple.com/documentation/swiftui/gradient) |
-| 2 | [Asyncimage] (design/asyncimage.md) | [Reference](https://developer.apple.com/documentation/swiftui/asyncimage) |
+| 2 | [Asyncimage](design/asyncimage.md) | [Reference](https://developer.apple.com/documentation/swiftui/asyncimage) |
