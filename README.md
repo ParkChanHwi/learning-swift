@@ -21,4 +21,4 @@ available up to 10s 14.0
 
 | # | Title | Reference |
 |---| ----- | --------- |
-| 1 | [Link](https://github.com/ParkChanHwi/learning-swift/edit/main/README.md) | [appleDeveloper_Link](https://developer.apple.com/documentation/swiftui/link) |
+| 1 | [Gradient](design/gradient.md) | [appleDeveloper_Link](https://developer.apple.com/documentation/swiftui/link) |
